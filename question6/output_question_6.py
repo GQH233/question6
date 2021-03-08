@@ -1,0 +1,10 @@
+7 11 inside
+10 14 inside
+11 4 outside
+12 21 inside
+16 3 inside
+16 10 outside
+17 4 outside
+18 7 outside
+18 17 outside
+20 7 inside
